@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+snowflake-connector-python
+beautifulsoup4
+selenium
+webdriver-manager
